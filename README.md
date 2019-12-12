@@ -1,1 +1,1 @@
-Instagram main page clone
+### React-practice-westagram (react/ styled-components)
