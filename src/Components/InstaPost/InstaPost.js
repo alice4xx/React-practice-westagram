@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 import data from './data';
+
 import lei from '../../Images/leilei.png';
 import dot from '../../Images/dot.png';
 import cat from '../../Images/thecat.png';
@@ -140,10 +141,11 @@ const LeftCircle = styled.div`
   margin-left: 3px;
   border-radius: 50%;
   width: 42px;
+  /* border : 1px solid red; */
 `;
 const ImgLei = styled.img`
-  width: 35px;
-  border-radius: 50%;
+  width: inherit;
+  border-radius: 100%;
 `;
 const OtherBlock = styled.div`
   display: flex;
