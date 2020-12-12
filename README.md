@@ -1,1 +1,5 @@
-### React-practice :westagram (react/ styled-components)
+### React-practice :westagram 
+
+---
+React </br>
+Styled-component
