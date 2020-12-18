@@ -1,4 +1,4 @@
-### React-practice :westagram 
+### React-practice :westagram (Instagram clone)
 
 ---
 React </br>
